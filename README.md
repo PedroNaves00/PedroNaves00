@@ -7,7 +7,7 @@ Visitors couting 👇
   ----------------------------------------------------------------------------------
   
 - 📍 Brazil
-- 🐍 Studying python
+- 💻 Programing
 - 📫 Email for contact: pedronaves11@gmail.com
 <div align="center">
   <a href="https://github.com/PedroNaves7">
