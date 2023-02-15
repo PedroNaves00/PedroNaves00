@@ -1,9 +1,5 @@
 ### Hello, I am Pedro Naves!
 Visitors couting 👇
-
-![Visitor Count](https://profile-counter.glitch.me/PedroNaves7/count.svg)
-<div style="text-align: right">
-
   ----------------------------------------------------------------------------------
   
 - 📍 Brazil
@@ -35,4 +31,9 @@ Visitors couting 👇
    ----------------------------------------------------------------------------------
   
   # Thanks for reading my profile 🤝
+  
+  Visitors couting 👇
+
+![Visitor Count](https://profile-counter.glitch.me/PedroNaves7/count.svg)
+<div style="text-align: right">
   
