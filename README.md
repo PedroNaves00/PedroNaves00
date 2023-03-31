@@ -1,6 +1,6 @@
 ### Olá !!
 
-Sou um estutante de Ciência da computação pelo IF Goiano, e busco por uma oportunidade de trabalho
+📌 Sou um estutante de Ciência da computação pelo IF Goiano, estou em constante aprendizado e busco por uma oportunidade de trabalho.
   ----------------------------------------------------------------------------------
   
 - 📍 Brazil
