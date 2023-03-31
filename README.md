@@ -1,4 +1,6 @@
-### Hello!!
+### Olá !!
+
+Sou um estutante de Ciência da computação pelo IF Goiano, e busco por uma oportunidade de trabalho
   ----------------------------------------------------------------------------------
   
 - 📍 Brazil
