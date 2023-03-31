@@ -1,4 +1,4 @@
-### Hello, I am Pedro Naves!
+### Hello!!
   ----------------------------------------------------------------------------------
   
 - 📍 Brazil
@@ -17,7 +17,7 @@
   
   ##
  
-  # Social Medias:
+  # Redes Sociais:
   
    <div> 
   <a href="https://instagram.com/_pedro_naves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -27,7 +27,9 @@
 
    ----------------------------------------------------------------------------------
   
+  # Obrigado por ler meu perfil
   # Thanks for reading my profile 🤝
+  
   
   Visitors couting 👇
 
