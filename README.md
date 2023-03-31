@@ -1,6 +1,6 @@
 ### Olá !!
 
-📌 Sou um estutante de Ciência da computação pelo IF Goiano, 
+📌 Sou um estutante de Ciência da computação pelo IF Goiano, <br>
   em constante aprendizado e buscando por uma oportunidade.
   ----------------------------------------------------------------------------------
   
