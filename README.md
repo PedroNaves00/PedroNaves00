@@ -1,3 +1,4 @@
+  Olá, <br>
 📌 Sou um estutante de Ciência da computação pelo IF Goiano, em constante aprendizado e buscando por uma oportunidade. <br>
   ----------------------------------------------------------------------------------
 💻 Aqui você encontrará meus repositórios com projetos vínculo a minha faculdade e projetos de estudos paralelos.
