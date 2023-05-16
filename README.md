@@ -30,9 +30,6 @@
 
    ----------------------------------------------------------------------------------
   
-  # Obrigado por ler meu perfil
-  # Thanks for reading my profile 🤝
-  
   
   Visitors couting 👇
 
