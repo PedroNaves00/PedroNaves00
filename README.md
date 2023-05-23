@@ -13,9 +13,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNaves00&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
+    
+  ##
+  
+  #  Skills: 
+    <div>
  <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
  <a target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
- 
+    </div>
   ##
  
   # Social Medias:
