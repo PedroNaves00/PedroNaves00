@@ -1,7 +1,7 @@
-  Olá, <br> <br>
-📌 Sou um estutante de Ciência da computação pelo IF Goiano, em constante aprendizado e buscando por uma oportunidade. <br>
+  Hi! <br> <br>
+📌 I´m a cumputer science student at IF Goiano, in constant learning looking for an opportunity. <br>
   ----------------------------------------------------------------------------------
-💻 Aqui você encontrará meus repositórios com projetos vínculo a minha faculdade e projetos de estudos paralelos.
+💻 Here you´r gonna find my repositories of projects and study activities.
   ----------------------------------------------------------------------------------
   
 - 📍 Brazil
