@@ -1,4 +1,4 @@
-  # Hi! <br> 
+  # Hi!  
 📌 I´m a cmmputer science student at IF Goiano, in constant learning looking for an opportunity. <br>
   ----------------------------------------------------------------------------------
 💻 Here you will find my repositories of projects and study activities.
